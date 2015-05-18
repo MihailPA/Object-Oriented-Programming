@@ -1,0 +1,1 @@
+C:\Users\Mihail\Desktop\Telerik Academy\OOP\Extension-Methods-Delegates-Lambda-LINQ\01.StringBuilder.Substring\bin\Debug\01.StringBuilder.Substring.exe.config
